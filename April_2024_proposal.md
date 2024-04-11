@@ -220,5 +220,3 @@ Mettalex is committed to contributing back to the Fetch.ai treasury, ensuring a 
 ### CONCLUSION
 
 Concluding, this funding proposal from Mettalex to the [Fetch.ai](http://fetch.ai/) community is a stepping stone towards revolutionizing the DEX space with our AI Agent-based platform. With the requested 1 million USD worth of FET tokens, we plan to significantly improve development, marketing, and liquidity, reinforcing Mettalex's market presence and showcasing [Fetch.ai](http://fetch.ai/)'s technology. Our roadmap promises a future of innovative trading experiences, and with community support, we aim to foster growth and innovation within both ecosystems. This collaborative effort will pave the way for a thriving DeFi environment, benefiting traders and the wider blockchain community alike.
-
-We are requesting 1Million worth of FET Token, At the current rate of $2.55 Per FET at 11 April 2024 11.05PM IST
