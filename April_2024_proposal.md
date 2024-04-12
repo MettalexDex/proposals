@@ -10,7 +10,7 @@ Mettalex commits to repaying the [Fetch.ai](http://fetch.ai/) community fund wit
 
 ### **APPLICANT INFORMATION**
 
-**Applicant Name:** Humayun Sheikh or Chirag or Monish or Mehul
+**Applicant Name:** Humayun Sheikh, Chirag, Mehul
 
 **Project Name:** Mettalex: P2P order book and Agent based DEX
 
