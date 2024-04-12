@@ -1,4 +1,4 @@
-# Fetch Community Community Pool Proposal
+# Fetch Community Pool Proposal
 
 ### EXECUTIVE  SUMMARY
 
