@@ -212,7 +212,7 @@ This proposal merits approval for several reasons, each contributing significant
 
 **Plan to Return the Grants to the Treasury**:
 
-Mettalex is committed to contributing back to the Fetch.ai treasury, ensuring a symbiotic relationship that benefits both parties in the long term. The plan includes:q
+Mettalex is committed to contributing back to the Fetch.ai treasury, ensuring a symbiotic relationship that benefits both parties in the long term. The plan includes:
 
 - **Revenue Sharing Mechanism**: A portion of the trading fees generated on the platform will be allocated to a revenue-sharing pool, specifically designed to reimburse the Fetch.ai treasury over time. This mechanism creates a continuous return stream, aligning Mettalex's success with the Fetch.ai community's benefit.
 - **Scheduled Milestone Reports**: Mettalex will provide the community with transparent milestone reports detailing the platform's growth, revenue generated, and the specific amounts allocated towards repaying the grant. This transparency ensures the community is continually updated on the grant repayment progress.
